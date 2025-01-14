@@ -44,7 +44,9 @@ Choose an option by entering the corresponding number:
 
 Enter text to encrypt: HelloWorld
 
-Enter shift amount (e.g., 3): 3
+Enter shift amount (e.g., 3):
+
+3
 
 Encrypted Text: KhoorZruog
 
