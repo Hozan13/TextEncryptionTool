@@ -38,7 +38,9 @@ A console-based application for encrypting, decrypting, and managing text files.
 6. Delete Saved File
 7. Exit
 
-Choose an option by entering the corresponding number: 1
+Choose an option by entering the corresponding number:
+
+1
 
 Enter text to encrypt: HelloWorld
 
