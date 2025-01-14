@@ -1,0 +1,7 @@
+C:\Users\hasan\source\repos\TextEncryptionTool\TextEncryptionTool\bin\Debug\TextEncryptionTool.exe.config
+C:\Users\hasan\source\repos\TextEncryptionTool\TextEncryptionTool\bin\Debug\TextEncryptionTool.exe
+C:\Users\hasan\source\repos\TextEncryptionTool\TextEncryptionTool\bin\Debug\TextEncryptionTool.pdb
+C:\Users\hasan\source\repos\TextEncryptionTool\TextEncryptionTool\obj\Debug\TextEncryptionTool.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\TextEncryptionTool\TextEncryptionTool\obj\Debug\TextEncryptionTool.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\TextEncryptionTool\TextEncryptionTool\obj\Debug\TextEncryptionTool.exe
+C:\Users\hasan\source\repos\TextEncryptionTool\TextEncryptionTool\obj\Debug\TextEncryptionTool.pdb
